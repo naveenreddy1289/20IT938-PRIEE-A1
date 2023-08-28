@@ -1,3 +1,1 @@
-# SmartLender-
-<br>
-ApplicantCredibilityPredictionforLoanApproval
+SmartLender-ApplicantCredibilityPredictionforLoanApproval
