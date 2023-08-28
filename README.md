@@ -1,1 +1,1 @@
-<h1>SmartLender-ApplicantCredibilityPredictionforLoanApproval</h1>
+<h1>ApplicantCredibilityPredictionforLoanApproval</h1>
