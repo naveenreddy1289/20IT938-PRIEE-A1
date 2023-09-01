@@ -14,9 +14,9 @@ Data Science has become a driving force in reshaping the banking landscape. From
 ## Team Members
 | Name                | Register Number   | ID                |
 |---------------------|-------------------|-------------------|
-| Annapareddy Naveen | 111720102008 | [ID]              |
-| Sasank Reddy C     | 111720102029 | [ID]              |
-| Nitesh B     | 111720102028 | [ID]              |
+| Annapareddy Naveen | 111720102008 | naveenreddy1289              |
+| Sasank Reddy C     | 111720102029 | sasankchintham           |
+| Nitesh B     | 111720102028 | NiteshBurle2003             |
 
 
 ## Contribution Guidelines
