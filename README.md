@@ -6,10 +6,10 @@
 Welcome to the GitHub repository for the project on **SmartLender-Applicant Credibility Prediction For Loan Approval**. In this project, we explore the dynamic relationship between the banking industry and DataScience.
 
 ## Project Objective
-The primary objective of this project is that  Lenders look at your credit score, income, ongoing EMI's, occupation, age,and repayment history, while evaluating an application for a personal loan.The prediction model not  only helps the applicant but also helps the bank minimize the risk and reduce the number of defaulters
+Our primary goal is to create a prediction model that evaluates loan applicants based on factors such as credit score, income, ongoing EMI's, occupation, age, and repayment history. This model benefits both applicants and banks by reducing the risk of defaulters.
 
 ## Domain: Data Science in Banking
-Data Science has become a driving force in reshaping the banking landscape. From enhancing operational efficiency to improving customer experiences, AI technologies are playing a pivotal role. In this project, we delve into the nuances of this domain, exploring both the opportunities and ethical considerations associated with DS integration in banking.
+Our primary goal is to create a prediction model that evaluates loan applicants based on factors such as credit score, income, ongoing EMI's, occupation, age, and repayment history. This model benefits both applicants and banks by reducing the risk of defaulters.
 
 ## Team Members
 | Name                | Register Number   | ID                |
