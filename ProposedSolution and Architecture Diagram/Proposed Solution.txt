@@ -1,0 +1,40 @@
+                                                                      PRIEE-PROPOSED SOLUTION
+
+Project name - Smart lender –applicant credibility for loan prediction
+
+
+1.Problem Statement (Problem to be solved)
+
+The credit system governed by the banks is one of the most important
+factors which affect our country’s economy and financial condition. Also,
+credit risk is one of the main functions of the banking community. The
+prediction of credit defaulters is one of the difficult tasks for any bank. This
+problem occurs when the banks need to provide loans to the customers
+who are in need of the money. But by forecasting the loan defaulters, the
+banks definitely may reduce their loss by reducing their non-profit assets.
+
+2.Idea / Solution Description
+
+This solution uses Machine Learning techniques which can be used to
+perform such classifications of the credit defaulters as they are very crucial
+and useful in the prediction of these types of data. Classification algorithms
+such as Decision tree, Random forest, KNN, Xgboost and SVM will be used.
+The data is trained and tested with these algorithms and finally, the best
+model is selected and saved in pkl format.
+
+3.Novelty /Uniqueness
+
+The solution tries to use the best model from the mentioned five models and
+classify the applicants with least error.
+
+4.Social Impact /Customer Satisfaction
+
+This application will help the bank employees to classify the credit
+defaulters accurately with minimum error. So, the non - profit losses of the
+banks have been reduced. Thus, they may recover the approved loans with
+minimum losses.
+
+5.Scalability of the Solution
+
+The front end of the application is modular. Python Web Framework is used
+to do so.A simple Streamlit web appliction.
